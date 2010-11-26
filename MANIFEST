@@ -1,0 +1,7 @@
+Changes
+MANIFEST
+Makefile.PL
+README
+lib/Dancer/Plugin/Auth.pm
+lib/Dancer/Plugin/Auth/DB.pm
+t/00-load.t
