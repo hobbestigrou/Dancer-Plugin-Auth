@@ -13,7 +13,7 @@ Dancer::Plugin::Auth - systeme authentication for Dancer applications.
 
 =cut
 
-our $VERSION = '0.1';
+our $VERSION = '0.2';
 
 =head1 AUTHOR
 

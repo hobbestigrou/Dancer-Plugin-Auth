@@ -54,7 +54,7 @@ register login => sub {
     });
 
    if ( $user_login ) {
-       session user_id => $user_login->{id};
+       session user_id => $user_login->id;
        session user    => $username;
        return 1;
    } 
